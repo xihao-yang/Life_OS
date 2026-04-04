@@ -266,7 +266,7 @@ Life OS
 | ------- | ---------- | -------------------------------------------- |
 | v1      | Observable | Build a self‑observation system              |
 | v2      | Insightful | Provide deep reflection and decision support |
-
+||||百度、网易、华为
 ---
 
 > The ultimate goal of Life OS is not to be “more disciplined,”
