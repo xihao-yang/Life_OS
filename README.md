@@ -5,6 +5,8 @@
 
 ---
 
+----
+
 ## Design Principles
 
 1. **Agent‑first**
